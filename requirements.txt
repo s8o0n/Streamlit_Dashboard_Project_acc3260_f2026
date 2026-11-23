@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+io
+streamlit
+matplotlib.pyplot
+matplotlib.ticker
